@@ -35,7 +35,7 @@ http://www.jianshu.com/p/7559242455d5
  pod repo add YunshuaiSpecs https://github.com/SilenceZhou/YunshuaiSpecs.git
  ```
  
- 2.创建自己的私有库Lib（自行学习）
+ 2.创建自己的私有库Lib（[自行学习](http://www.jianshu.com/p/32ba94d41861)）
  
  3.在本地私有库podspec同级目录下进行如下操作，上传私有库，制作完毕
  ```
