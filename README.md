@@ -4,12 +4,13 @@
 
 1、先添加私有库的配置文件
    pod repo add YunshuaiSpecs https://github.com/SilenceZhou/YunshuaiSpecs.git
+
 2、搜索 
    pod search LeftChangeIconTextField
    
    
 
-二、创作：
+二、制作自己的私有库
 
 参考链接： 
 http://www.jianshu.com/p/7559242455d5
@@ -18,14 +19,14 @@ http://www.jianshu.com/p/7559242455d5
 
 创建过程
 
-1.创建私有Spec Repo
+1.创建私有Spec Repo（首先在git/码云上创建私有库）
  ```
  pod repo add YunshuaiSpecs https://github.com/SilenceZhou/YunshuaiSpecs.git
  ```
  
- 2.然后创建自己的私有库（自行学习）
+ 2.创建自己的私有库Lib（自行学习）
  
- 3.在本地私有库下面进行逐个操作就OK
+ 3.在本地私有库podspec同级目录下进行如下操作，上传私有库，制作完毕
  ```
    pod repo push YunshuaiSpecs LeftChangeIconTextField.podspec
 ```
