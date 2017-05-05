@@ -6,7 +6,9 @@ pod repo add YunshuaiSpecs https://github.com/SilenceZhou/YunshuaiSpecs.git
 http://www.jianshu.com/p/7559242455d5
 
 如何创建私有Pod
+
 创建过程
+
 1.创建私有Spec Repo
  ```
  pod repo add YunshuaiSpecs https://github.com/SilenceZhou/YunshuaiSpecs.git
