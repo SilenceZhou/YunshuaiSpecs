@@ -21,10 +21,7 @@ source 'https://github.com/SilenceZhou/YunshuaiSpecs.git'
 
 
 
-二、制作自己的私有库
-
-参考链接： 
-http://www.jianshu.com/p/7559242455d5
+二、制作自己的私有库 [参考链接](http://www.jianshu.com/p/7559242455d5)
 
 如何创建私有Pod
 
