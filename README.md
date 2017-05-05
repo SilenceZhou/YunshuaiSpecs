@@ -3,10 +3,16 @@
 一、使用：
 
 1、先添加私有库的配置文件
+```
    pod repo add YunshuaiSpecs https://github.com/SilenceZhou/YunshuaiSpecs.git
+```
 
 2、搜索 
+```
    pod search LeftChangeIconTextField
+```
+3、在Podfile文件里面添加：
+source 'https://github.com/SilenceZhou/YunshuaiSpecs.git'
    
    
 
