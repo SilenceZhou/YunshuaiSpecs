@@ -1,6 +1,15 @@
 # YunshuaiSpecs
 
-pod repo add YunshuaiSpecs https://github.com/SilenceZhou/YunshuaiSpecs.git
+一、使用：
+
+1、先添加私有库的配置文件
+   pod repo add YunshuaiSpecs https://github.com/SilenceZhou/YunshuaiSpecs.git
+2、搜索 
+   pod search LeftChangeIconTextField
+   
+   
+
+二、创作：
 
 参考链接： 
 http://www.jianshu.com/p/7559242455d5
